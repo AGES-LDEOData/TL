@@ -1,0 +1,100 @@
+{
+    "acquisition_software": "pychron py3/18.2",
+    "aliquot": 1,
+    "analysis_type": "unknown",
+    "analyst_name": "root",
+    "collection_version": "1.0:1.0",
+    "comment": "",
+    "commit": "9f13a4e8c250e87ac25e967a6333d3a0eb2b6331",
+    "conditionals": null,
+    "data_reduction_software": "pychron py3/18.2",
+    "detectors": {
+        "AX": {
+            "deflection": null,
+            "gain": null
+        },
+        "H1": {
+            "deflection": null,
+            "gain": null
+        },
+        "H2": {
+            "deflection": null,
+            "gain": null
+        },
+        "L1": {
+            "deflection": null,
+            "gain": null
+        },
+        "L2": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "Load55d",
+    "extraction": "ngx_co2.py",
+    "identifier": "100085",
+    "increment": 6,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "AGESLDEO-091",
+    "irradiation_level": "A",
+    "irradiation_position": 8,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar36L1": {
+            "detector": "L1",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "mass_spectrometer": "Ngx",
+    "material": "basalt",
+    "measurement": "ngx_ar_multi_hop.py",
+    "post_equilibration": "ngx_pump_unknown.py",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "Liu, T",
+    "project": "TL",
+    "queue_conditionals_name": "",
+    "repository_identifier": "TL",
+    "sample": "96-RH-2",
+    "source": {
+        "emission": 701.27,
+        "trap": 199.99886
+    },
+    "spec_sha": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+    "timestamp": "2018-11-01T18:50:45.157299",
+    "tripped_conditional": null,
+    "username": "root",
+    "uuid": "3cf3cf07-c48a-4d77-9eca-cdda6d8ce581",
+    "whiff_result": null
+}
