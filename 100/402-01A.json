@@ -1,0 +1,113 @@
+{
+    "acquisition_software": "pychron 19.6",
+    "aliquot": 1,
+    "analysis_type": "unknown",
+    "analyst_name": "root",
+    "arar_mapping": {
+        "Ar36": "Ar36",
+        "Ar37": "Ar37",
+        "Ar38": "Ar38",
+        "Ar39": "Ar39",
+        "Ar40": "Ar40"
+    },
+    "collection_version": "1.0:2.0",
+    "comment": "",
+    "commit": "6638ad62480bfcf26ab8299ef494e94c0503ce1e",
+    "conditionals": null,
+    "data_reduction_software": "pychron 19.6",
+    "detectors": {
+        "AX": {
+            "deflection": null,
+            "gain": null
+        },
+        "H1": {
+            "deflection": null,
+            "gain": null
+        },
+        "H2": {
+            "deflection": null,
+            "gain": null
+        },
+        "L1": {
+            "deflection": null,
+            "gain": null
+        },
+        "L2": {
+            "deflection": null,
+            "gain": null
+        }
+    },
+    "environmental": {
+        "lab_humiditys": [],
+        "lab_pneumatics": [],
+        "lab_temperatures": []
+    },
+    "experiment_queue_name": "Load65",
+    "experiment_type": "Ar/Ar",
+    "extraction": "ngx_co2.py",
+    "grainsize": "",
+    "hops": "",
+    "identifier": "100402",
+    "increment": 0,
+    "instrument_name": "",
+    "intensity_scalar": 0.0,
+    "irradiation": "AGESLDEO-100",
+    "irradiation_level": "D",
+    "irradiation_position": 11,
+    "isotopes": {
+        "Ar36": {
+            "detector": "L2",
+            "name": "Ar36",
+            "serial_id": "00000"
+        },
+        "Ar37": {
+            "detector": "L1",
+            "name": "Ar37",
+            "serial_id": "00000"
+        },
+        "Ar38": {
+            "detector": "AX",
+            "name": "Ar38",
+            "serial_id": "00000"
+        },
+        "Ar39": {
+            "detector": "H1",
+            "name": "Ar39",
+            "serial_id": "00000"
+        },
+        "Ar40": {
+            "detector": "H2",
+            "name": "Ar40",
+            "serial_id": "00000"
+        }
+    },
+    "laboratory": "",
+    "latitude": 0.0,
+    "lithology": "",
+    "lithology_class": "",
+    "lithology_group": "",
+    "lithology_type": "",
+    "longitude": 0.0,
+    "mass_spectrometer": "Ngx",
+    "material": "groundmass",
+    "measurement": "ngx_air_ten.py",
+    "post_equilibration": "ngx_pump_unknown.py",
+    "post_measurement": "ngx_pump_ms.py",
+    "principal_investigator": "Liu, T",
+    "project": "TL",
+    "queue_conditionals_name": "",
+    "repository_identifier": "TL",
+    "rlocation": "",
+    "sample": "96-RH-2",
+    "source": {
+        "emission": 1177.08,
+        "trap": 199.89018
+    },
+    "spec_sha": "2a813acaeadcd92be2a57b36b35c0e0943859370",
+    "timestamp": "2020-02-07T17:01:40.430424",
+    "tripped_conditional": null,
+    "unit": "",
+    "username": "root",
+    "uuid": "d62611a1-3bd4-4684-98ff-dac0f7278ee8",
+    "whiff_result": null
+}
