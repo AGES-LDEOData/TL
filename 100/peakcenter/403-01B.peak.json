@@ -1,0 +1,42 @@
+{
+    "AX": {
+        "center_dac": null,
+        "center_signal": null,
+        "high_dac": null,
+        "high_resolving_power": null,
+        "high_signal": null,
+        "low_dac": null,
+        "low_resolving_power": null,
+        "low_signal": null,
+        "points": "QhavDLcp1K5CFrQrNgPrWkIWuUq2Dyp2Qha+aTdCDRpCFsOHNgQlaUIWyKY3DM8KQhbNxbUosVFCFtLjtzY/UkIW2AI2nwhJQhbdITdPG9FCFuJAOMtSE0IW5145CwlyQhbsfTkdXZ9CFvGcORQVikIW9ro5C9EpQhb72TkLfCRCFwD4ORxncUIXBhc5GZgZQhcLNTkKsnpCFxBUOPtfi0IXFXM4h+rhQhcakjdheHpCFx+wNr7Yo0IXJM+3m0Y0Qhcp7rYF7HRCFy8MNziEAEIXNCu1u51uQhc5SreZAi5CFz5pNp8U40IXQ4e2n6FfQhdIpjcr4NU=",
+        "resolution": null
+    },
+    "H2": {
+        "center_dac": 37.739933654771015,
+        "center_signal": 0.23657799663636878,
+        "high_dac": 37.77705790326801,
+        "high_resolving_power": 1847.80410722852,
+        "high_signal": 0.04523434538440703,
+        "low_dac": 37.70280940627402,
+        "low_resolving_power": 1629.0802505396705,
+        "low_signal": 0.045797913614006085,
+        "points": "QhavDDbUxEJCFrQrtjAGiEIWuUo4SnvwQha+aTpXSDJCFsOHO2w+g0IWyKY8Q65jQhbNxTz+G1dCFtLjPaNtw0IW2AI+FQP+QhbdIT5Qt+xCFuJAPm47pUIW514+cikIQhbsfT5yHapCFvGcPnIjm0IW9ro+chDYQhb72T5x4alCFwD4PnDhf0IXBhc+bRVMQhcLNT5kYspCFxBUPkqLGUIXFXM+FMgNQhcakj143L1CFx+wPC6j6UIXJM85twgcQhcp7rebR1FCFy8MtVSDakIXNCs24K7/Qhc5Src/RetCFz5pt6hqXEIXQ4e2wGi9QhdIprU0ovU=",
+        "resolution": 442.05168764624796
+    },
+    "L2": {
+        "center_dac": 37.74970319384917,
+        "center_signal": 46991.69363135262,
+        "high_dac": 37.77735850447041,
+        "high_resolving_power": 2922.329750965866,
+        "high_signal": 9160.734696616366,
+        "low_dac": 37.72204788322793,
+        "low_resolving_power": 3691.1376262230283,
+        "low_signal": 8442.893586091419,
+        "points": "QhavDECAAABCFrQrP4AAAEIWuUpAAAAAQha+aQAAAABCFsOHQEAAAEIWyKZAAAAAQhbNxUCAAABCFtLjQOAAAEIW2AJBkAAAQhbdIUP8gABCFuJARYuQAEIW515G3UIAQhbsfUcxpgBCFvGcRzU4AEIW9rpHNx4AQhb72Uc2AQBCFwD4RzTjAEIXBhdHNogAQhcLNUc0GABCFxBURy+2AEIXFXNHFkIAQhcakkZoCABCFx+wRFUAAEIXJM9BqAAAQhcp7kEAAABCFy8MQUAAAEIXNCtBgAAAQhc5SkEwAABCFz5pP4AAAEIXQ4dAAAAAQhdIpj+AAAA=",
+        "resolution": 627.9083964576837
+    },
+    "fmt": ">ff",
+    "interpolation": "cubic",
+    "reference_detector": "H2",
+    "reference_isotope": "Ar40"
+}
